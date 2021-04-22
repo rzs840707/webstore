@@ -47,6 +47,8 @@ See the full documentation at: http://webstore.readthedocs.org/en/latest/
     default = webstore.security:default_has
     sw_has = webstore.swauth:sw_has
     '''
+    
+    license = 'CNU'
 )
 
 
